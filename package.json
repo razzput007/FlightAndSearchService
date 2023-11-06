@@ -4,7 +4,7 @@
   "description": "Microservice for Handling Flight CRUD",
   "main": "index.js",
   "scripts": {
-    "start": "npx nodemon index.js"
+    "start": "npx nodemon src/index.js"
   },
   "author": "Raja Singh",
   "license": "ISC",
